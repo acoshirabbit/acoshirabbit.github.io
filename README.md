@@ -1,6 +1,6 @@
-### Main website is coming soon
+# Main website is coming soon
 
-# Acoshi Rabbit (ARBT) is a revolutionary memecoin
+### Acoshi Rabbit (ARBT) is a revolutionary memecoin
 hyper-focused on enriching poor people and small
 players in the cryptoverse through Stellar.
 Stellar is the most affordable, fast and secure blockchain network.
