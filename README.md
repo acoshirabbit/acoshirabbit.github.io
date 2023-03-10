@@ -16,5 +16,6 @@ players in the cryptoverse through Stellar; the most affordable, fast and secure
  15% will be used to create liquidity to enable smooth trading
  15% will be used for strategic marketing to send $ARBT to the moon
  05% will be reserved for project development (project's funds)
-
  No team tokens, project is created to change lives for good; simply join the moon mission and keep spreading the news.🚀🚀
+
+Copyright © 2023 AcoshiRabbit. All rights reserved.
