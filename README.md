@@ -1,7 +1,7 @@
 # Custom website is coming soon
 
 ### Fair Launch Announcement
-##### Date: 15-03-2023 Time: 13:00 UTC
+#### Date: 15-03-2023 Time: 13:00 UTC
 Trading will commence immediately on all StellarDEXs
 Join telegram community @AcoshiRabbit and @AcoshiRabbit1
 
