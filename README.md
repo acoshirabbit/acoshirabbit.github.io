@@ -1,15 +1,11 @@
-# Custom website is coming soon
-
-### Fair Launch Announcement
-#### Date: 15-03-2023 Time: 13:00 UTC
-Trading will commence immediately on all StellarDEXs
-Join telegram community @AcoshiRabbit and @AcoshiRabbit1
-
-### What is Acoshi Rabbit?
-Acoshi Rabbit (ARBT) is a revolutionary memecoin
-hyper-focused on enriching poor people and small
-players in the cryptoverse through Stellar; the most affordable, fast and secure blockchain network.
-
+# Hop On The Revolutionary Memecoin!
+Hyper-focused on enriching poor people and small players in the cryptoverse through Stellar (XLM) blockchain network.
+### Fair Launching On 15-03-2023 By 13:00 UTC
+Liquidity will be added and trading will commence immediately on all StellarDEXs, Join Acoshi Rabbit telegram community @AcoshiRabbit and @AcoshiRabbit1 and keep spreading the news!
+## Buy and Sell $ARBT
+Stellar is a blockchain network that enables fast and secure transactions, and is the platform on which the PEPE Network's token is built. PEPE token is a meme-inspired cryptocurrency that uses the Stellar network to facilitate peer-to-peer transactions with low fees and high speed. With Stellar's reliable and efficient infrastructure, PEPE token aims to create a fun and accessible way to engage with cryptocurrency.
+### About Acoshi Rabbit
+Acoshi Rabbit (ARBT) is a revolutionary memecoin hyper-focused on enriching poor people and small players in the cryptoverse through Stellar; the most affordable, fast and secure blockchain network.
 ### Distribution and Tokenomics
  Max Supply = 100,000,000,000
  65% will be made available for everyone on StellarDEXs
