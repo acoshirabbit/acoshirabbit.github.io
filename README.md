@@ -8,9 +8,9 @@ Liquidity will be added and trading will commence immediately on all StellarDEXs
 #### $ARBT ON STELLAR NETWORK
 Stellar is a blockchain network that enables fast and secure transactions, and is the platform on which the $ARBT token is built. $ARBT token is a meme-inspired cryptocurrency that uses the Stellar network to facilitate peer-to-peer transactions with low fees and high speed. With Stellar's reliable and efficient infrastructure, $ARBT token aims to provide social support for poor people and small players in the cryptoverse.
 #### ABOUT ACOSHI RABBIT
-Stellar boosts a thriving ecosystem of active community members and offers robust support for projects leveraging the Stellar Network, demonstrating its commitment to fostering innovation and growth within the blockchain industry.
+Acoshi Rabbit (ARBT) is a revolutionary memecoin hyper-focused on enriching poor people and small players in the cryptoverse through Stellar; the most affordable, fast and secure blockchain network.
 
-Acoshi Rabbit (ARBT) is a revolutionary memecoin hyper-focused on enriching poor people and small players in the cryptoverse through Stellar; the most affordable, fast and secure blockchain network. $ARBT is a cryptocurrency that draws inspiration from Dogecoin, and aims to bring wealth and humor to poor people and small players in the cryptoverse. Built on the Stellar network, $ARBT token allows for fast, low-cost, and secure peer-to-peer transactions, while also providing social assistance. With a focus on wealth creation for its community, $ARBT token aims to appeal to both casuals and enthusiasts alike, and to promote a more profitable approach to cryptocurrency.
+$ARBT is a cryptocurrency that is inspired by Shiba Inu, also has learnt a few tricks from the meme father Dogecoin, and aims to bring wealth and humor to poor people and small players in the cryptoverse. Deployed on the Stellar network; ARBT token allows for fast, low-cost and secure peer-to-peer transactions. With focus on wealth creation for its community, $ARBT token appeal to both crypto casuals and enthusiasts alike, and aims to promotes a more profitable environment for approach to cryptocurrency.
 #### TRADE AND STORE $ARBT ON
 #### StellarTerm
 StellarTerm is a user-friendly decentralized exchange that allows individuals to trade digital assets on the Stellar network.
@@ -34,4 +34,4 @@ Interstellar is a user-friendly digital wallet and decentralized exchange that a
 • 15% will be used for strategic marketing to send $ARBT to the moon
 
 • 05% will be reserved for project development (project's funds)
-##### Copyright © 2023 AcoshiRabbit. All rights reserved.
+###### Copyright © 2023 AcoshiRabbit. All rights reserved.
