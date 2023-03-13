@@ -1,8 +1,6 @@
 ###### ⚠️custom domain coming soon
 ### HOP ON THE REVOLUTIONARY MEMECOIN!
-#### Fair launching on 15-03-2023 by 13:00 UTC, liquidity will be added and trading will commence immediately on all StellarDEXs. Join Acoshi Rabbit telegram community @AcoshiRabbit and @AcoshiRabbit1 and keep spreading the news!
-
-
+#### Fair launching on 15-03-2023 by 13:00 UTC, liquidity will be added and trading will commence immediately on all StellarDEXs.
 #### DISCOVER $ARBT ON STELLAR NETWORK
 Stellar is a blockchain network that enables fast and secure transactions, and is the blockchain network on which the $ARBT token is deployed. $ARBT token is a meme-inspired cryptocurrency that uses the Stellar network to facilitate peer-to-peer transactions with low fees and on high speed. With Stellar's reliable and efficient infrastructure, $ARBT token aims to enrich poor people and small players in the cryptoverse.
 #### ABOUT ACOSHI RABBIT
@@ -32,4 +30,10 @@ Interstellar is a user-friendly digital wallet and decentralized exchange that a
 • 15% will be used for strategic marketing to send $ARBT to the moon
 
 • 05% will be reserved for project development (project's funds)
+#### Join Acoshi Rabbit Socials
+Telegram channel: @AcoshiRabbit
+
+Telegram group: @AcoshiRabbit1
+
+Twitter handle: @AcoshiRabbit
 ###### Copyright © 2023 AcoshiRabbit. All rights reserved.
