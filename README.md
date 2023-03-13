@@ -1,7 +1,7 @@
 ###### ⚠️custom domain coming soon
 ## Hop On The Revolutionary Memecoin!
 #### Fair launching on 15-03-2023 by 13:00 UTC, liquidity will be added and trading will commence immediately on all StellarDEXs.
-### Discover Acoshi Rabbit & Stellar Network
+### Discover Acoshi Rabbit And Stellar
 Stellar is a blockchain network that enables fast and secure transactions, and is the blockchain network on which the $ARBT token is deployed. $ARBT token is a meme-inspired cryptocurrency that uses the Stellar network to facilitate peer-to-peer transactions with low fees and high speed. With Stellar's reliable and efficient infrastructure, $ARBT token aims to provide opportunities for wealth creation to poor people and small players in the cryptoverse.
 ### About Acoshi Rabbit
 Acoshi Rabbit (ARBT) is a meme-inspired cryptocurrency that has learnt a few tricks from the memes Father Dogecoin. $ARBT aims to bring wealth creation opportunities and humor to poor people and small players in the cryptoverse. Deployed on the Stellar network; ARBT token allows for fast, low-cost and secure peer-to-peer transactions. With focus on providing opportunities for wealth creation to its community, $ARBT token appeal to both crypto casuals and enthusiasts alike, while promoting a more profitable environment for approach to cryptocurrency.
