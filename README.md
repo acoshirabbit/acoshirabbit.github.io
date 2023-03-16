@@ -1,7 +1,7 @@
 ###### ⚠️custom domain coming soon
 <h2 align="center">Hop On The Revolutionary Memecoin!</h2>
 
-<div align="center">Fair launched on 15-03-2023 by 13:00 UTC, liquidity added and trading smoothly on all StellarDEXs</div>
+<div align="center">Fair launched on 15-03-2023 by 13:00 UTC, liquidity added and trading smoothly on all StellarDEXs<br/><h2><a href="https://lobstr.co/trade/ARBT:GBJUUYLCALIBUOLEWDJKAWCWVWQ7AV3T2FBFVVNB3KRJIZ3U2RFSCDLR" target="_blank">Buy Now</a></h2></div>
 
 <h3 align="center">Discover Stellar Network</h3>
 
@@ -47,7 +47,7 @@ Interstellar is a user-friendly digital wallet and decentralized exchange that a
 
 • 05% reserved for official use when needed
 
-<h2 align="center">Join Acoshi Rabbit Socials</h2>
+<h2 align="center">Join $ARBT Community</h2>
 
 Telegram channel: @AcoshiRabbit
 
