@@ -1,9 +1,8 @@
 ###### ⚠️custom domain coming soon
 <h2 align="center">Hop On The Revolutionary Memecoin!</h2>
-
-<div align="center"><img alt="ARBT" src="logo.png" /></div>
-
-<div align="center">Fair launched on 15-03-2023 | 13:00 UTC, liquidity added and trading smoothly on all StellarDEXs<br/><h2><a href="https://www.stellarx.com/swap/native/ARBT:GBJUUYLCALIBUOLEWDJKAWCWVWQ7AV3T2FBFVVNB3KRJIZ3U2RFSCDLR" target="_blank">Buy Now</a></h2></div>
+<div align="center"><img alt="ARBT" src="logo2.png" /></div>
+<br/>
+<div align="center">Fair launched on 15-03-2023 | 13:00 UTC, liquidity added and trading on StellarDEXs<br/><a href="https://www.stellarx.com/swap/native/ARBT:GBJUUYLCALIBUOLEWDJKAWCWVWQ7AV3T2FBFVVNB3KRJIZ3U2RFSCDLR" target="_blank"><img src="buy.png" alt="Buy Now" height= "50px" width= "150px" ></a></div>
 
 <h2 align="center">Discover Stellar Network</h2>
 
@@ -13,7 +12,7 @@
 
 <div align="center">Acoshi Rabbit (ARBT) is a meme-inspired cryptocurrency that has learnt a few tricks from the memes father Dogecoin, deployed on the Stellar network to enable super fast, low-cost and secured peer-to-peer transactions. $ARBT is a cryptocurrency project that is hyper-focused on enriching both the poor, small and big players and aims to promote a more profitable cryptoverse for everyone.</div>
 
-<h2 align="center">Token Features</h2>
+<h2 align="center">Token Key Features</h2>
 
 #### Fair Launched
 Acoshi Rabbit is a cryptocurrency project for the masses, therefore 65% of token total supply is made available for everyone on the Stellar decentralised exchanges to ensure safety, full ownership and control by traders and holders.
@@ -42,12 +41,7 @@ Solar is a decentralized wallet and peer-to-peer trading platform built on the S
 Interstellar is a user-friendly digital wallet and decentralized exchange that allows users to securely store and trade various digital assets on the Stellar network, including the XLM token.
 
 <h2 align="center">Join $ARBT Community</h2>
-<h4>
-- 
-    <a href="https://t.me/AcoshiRabbit1">Telegram Group</a> &nbsp; &nbsp;
-- 
-    <a href="https://t.me/AcoshiRabbit">Telegram Channel</a>
-</h4>
-<a href="https://www.buymeacoffee.com/soumyajit4419" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "50px" width= "150px" ></a>
+
+<div align="center"><a href="https://t.me/AcoshiRabbit1" target="_blank"><img src="group.png" alt="Group" height= "50px" width= "150px" ></a>&nbsp;&nbsp;<a href="https://t.me/AcoshiRabbit" target="_blank"><img src="channel.png" alt="Channel" height= "50px" width= "150px" ></a>&nbsp;&nbsp;<a href="https://t.me/AcoshiRabbit1" target="_blank"><img src="twitter.png" alt="Twitter" height= "50px" width= "150px" ></a></div>
 
 <h6 align="center">Copyright © 2023 AcoshiRabbit. All rights reserved.</h6>
