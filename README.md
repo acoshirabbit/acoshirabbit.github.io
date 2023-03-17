@@ -1,11 +1,11 @@
 ###### ⚠️custom domain coming soon
 <h2 align="center">Hop On The Revolutionary Memecoin!</h2>
 
-<div align="center"><img alt="Demo" src="logo.png" /></div>
+<div align="center"><img alt="ARBT" src="logo.png" /></div>
 
 <div align="center">Fair launched on 15-03-2023 | 13:00 UTC, liquidity added and trading smoothly on all StellarDEXs<br/><h2><a href="https://lobstr.co/trade/ARBT:GBJUUYLCALIBUOLEWDJKAWCWVWQ7AV3T2FBFVVNB3KRJIZ3U2RFSCDLR" target="_blank">Buy Now</a></h2></div>
 
-<h3 align="center">Discover Stellar Network</h3>
+<h2 align="center">Discover Stellar Network</h2>
 
 <div align="center">Stellar is a blockchain network that enables low-cost, fast and secure transactions, and it is the blockchain network on which the Acoshi Rabbit token is deployed. $ARBT token is a cryptocurrency that will be in existence for as long as Stellar blockchain network exist. With Stellar's reliable and efficient infrastructure, $ARBT token aims to sustain wealth creation opportunities for everyone in the cryptoverse.</div>
 
@@ -24,7 +24,7 @@ Acoshi Rabbit is a cryptocurrency project for the masses, therefore 65% of token
 #### Project Funds
 05% of $ARBT tokens from total supply is reserved for official use, to continually sustain project enhancement and maintenance.
 
-<div align="center"><img alt="Demo" src="logo.png" /></div>
+<div align="center"><img alt="ARBT" src="logo.png" /></div>
 
 <h2 align="center">Trade And Store $ARBT On</h2>
 
@@ -42,11 +42,12 @@ Solar is a decentralized wallet and peer-to-peer trading platform built on the S
 Interstellar is a user-friendly digital wallet and decentralized exchange that allows users to securely store and trade various digital assets on the Stellar network, including the XLM token.
 
 <h2 align="center">Join $ARBT Community</h2>
-
-Telegram channel: @AcoshiRabbit
-
-Telegram group: @AcoshiRabbit1
-
-Twitter handle: @AcoshiRabbit
+<h4>
+- 
+    <a href="https://t.me/AcoshiRabbit1">Telegram Group</a> &nbsp; &nbsp;
+- 
+    <a href="https://t.me/AcoshiRabbit">Telegram Channel</a>
+</h4>
+<a href="https://www.buymeacoffee.com/soumyajit4419" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "50px" width= "150px" ></a>
 
 <h6 align="center">Copyright © 2023 AcoshiRabbit. All rights reserved.</h6>
