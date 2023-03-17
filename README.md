@@ -1,8 +1,7 @@
 ###### ⚠️custom domain coming soon
 <h2 align="center">Hop On The Revolutionary Memecoin!</h2>
 <div align="center"><img alt="ARBT" src="logo2.png" /></div>
-<br/>
-<div align="center"><h5>Fair launched on 15-03-2023 | 13:00 UTC, liquidity added and trading on StellarDEXs</h5><a href="https://www.stellarx.com/swap/native/ARBT:GBJUUYLCALIBUOLEWDJKAWCWVWQ7AV3T2FBFVVNB3KRJIZ3U2RFSCDLR" target="_blank"><img src="buy.png" alt="Buy Now" height= "50px" width= "150px" ></a></div>
+<div align="center"><h5>Fair launched on 15-03-2023 | 13:00 UTC, liquidity added and trading commenced on StellarDEXs</h5><a href="https://www.stellarx.com/swap/native/ARBT:GBJUUYLCALIBUOLEWDJKAWCWVWQ7AV3T2FBFVVNB3KRJIZ3U2RFSCDLR" target="_blank"><img src="buy.png" alt="Buy Now" height= "50px" width= "150px" ></a></div>
 
 <h2 align="center">Discover Stellar Network</h2>
 
