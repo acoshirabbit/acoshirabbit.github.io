@@ -2,7 +2,7 @@
 <h2 align="center">Hop On The Revolutionary Memecoin!</h2>
 <div align="center"><img alt="ARBT" src="logo2.png" /></div>
 <br/>
-<div align="center">Fair launched on 15-03-2023 | 13:00 UTC, liquidity added and trading on StellarDEXs<br/><a href="https://www.stellarx.com/swap/native/ARBT:GBJUUYLCALIBUOLEWDJKAWCWVWQ7AV3T2FBFVVNB3KRJIZ3U2RFSCDLR" target="_blank"><img src="buy.png" alt="Buy Now" height= "50px" width= "150px" ></a></div>
+<div align="center"><h5>Fair launched on 15-03-2023 | 13:00 UTC, liquidity added and trading on StellarDEXs</h5><a href="https://www.stellarx.com/swap/native/ARBT:GBJUUYLCALIBUOLEWDJKAWCWVWQ7AV3T2FBFVVNB3KRJIZ3U2RFSCDLR" target="_blank"><img src="buy.png" alt="Buy Now" height= "50px" width= "150px" ></a></div>
 
 <h2 align="center">Discover Stellar Network</h2>
 
@@ -42,6 +42,6 @@ Interstellar is a user-friendly digital wallet and decentralized exchange that a
 
 <h2 align="center">Join $ARBT Community</h2>
 
-<div align="center"><a href="https://t.me/AcoshiRabbit1" target="_blank"><img src="group.png" alt="Group" height= "50px" width= "150px" ></a>&nbsp;&nbsp;<a href="https://t.me/AcoshiRabbit" target="_blank"><img src="channel.png" alt="Channel" height= "50px" width= "150px" ></a>&nbsp;&nbsp;<a href="https://t.me/AcoshiRabbit1" target="_blank"><img src="twitter.png" alt="Twitter" height= "50px" width= "150px" ></a></div>
+<div align="center"><a href="https://t.me/AcoshiRabbit1" target="_blank"><img src="group.png" alt="Group" height= "30px" width= "120px" ></a>&nbsp;&nbsp;<a href="https://t.me/AcoshiRabbit" target="_blank"><img src="channel.png" alt="Channel" height= "30px" width= "120px" ></a>&nbsp;&nbsp;<a href="https://twitter.com/AcoshiRabbit" target="_blank"><img src="twitter.png" alt="Twitter" height= "30px" width= "120px" ></a></div>
 
 <h6 align="center">Copyright © 2023 AcoshiRabbit. All rights reserved.</h6>
