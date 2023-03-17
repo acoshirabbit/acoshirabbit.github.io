@@ -3,7 +3,7 @@
 
 <div align="center"><img alt="ARBT" src="logo.png" /></div>
 
-<div align="center">Fair launched on 15-03-2023 | 13:00 UTC, liquidity added and trading smoothly on all StellarDEXs<br/><h2><a href="https://lobstr.co/trade/ARBT:GBJUUYLCALIBUOLEWDJKAWCWVWQ7AV3T2FBFVVNB3KRJIZ3U2RFSCDLR" target="_blank">Buy Now</a></h2></div>
+<div align="center">Fair launched on 15-03-2023 | 13:00 UTC, liquidity added and trading smoothly on all StellarDEXs<br/><h2><a href="https://www.stellarx.com/swap/native/ARBT:GBJUUYLCALIBUOLEWDJKAWCWVWQ7AV3T2FBFVVNB3KRJIZ3U2RFSCDLR" target="_blank">Buy Now</a></h2></div>
 
 <h2 align="center">Discover Stellar Network</h2>
 
