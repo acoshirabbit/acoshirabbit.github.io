@@ -4,7 +4,7 @@
 
 <h2 align="center">Discover Stellar Network</h2>
 
-<div align="center">Stellar is a blockchain network that enables low-cost, fast and secure transactions, and it is the blockchain network on which the Acoshi Rabbit token is deployed. $ARBT token is the masses cryptocurrency and will last in existence for as long as Stellar blockchain network exist. With Stellar's reliable and efficient infrastructure, $ARBT token aims to sustain wealth creation opportunities for everyone in the cryptoverse.</div>
+<div align="center">Stellar is a blockchain network that enables low-cost, fast and secure transactions, and it is the blockchain network on which the Acoshi Rabbit token is deployed. $ARBT token is the masses cryptocurrency and will last in existence for as long as Stellar blockchain network exist. With Stellar's reliable and efficient infrastructure, $ARBT token aims to sustain wealth creation opportunities for beginners and enthusiasts in the cryptoverse.</div>
 
 <h2 align="center">About Acoshi Rabbit</h2>
 
