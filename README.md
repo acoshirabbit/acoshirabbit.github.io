@@ -8,16 +8,16 @@
 
 <h2 align="center">About Acoshi Rabbit</h2>
 
-<div align="center">Acoshi Rabbit (ARBT) is a meme-inspired cryptocurrency that has learnt a few tricks from the memes father dogecoin, deployed on the Stellar network to enable super fast, low-cost and secured peer-to-peer transactions. $ARBT is a cryptocurrency for the masses and with Stellar's reliable and efficient infrastructure ARBT aims to sustain a more profitable cryptoverse for everyone.</div>
+<div align="center">Acoshi Rabbit (ARBT) is a meme-inspired cryptocurrency that has learnt a few tricks from the memes father dogecoin, deployed on the Stellar network to enable super fast, low-cost and secured peer-to-peer transactions. $ARBT is a cryptocurrency for the masses and with Stellar's reliable and efficient infrastructure ARBT aims to sustain a more profitable cryptoverse for both beginners and enthusiasts.</div>
 
 <h2 align="center">Key Features</h2>
 
 #### Fair Launched
 Acoshi Rabbit is a cryptocurrency for the masses, therefore 65% of token total supply is made available for everyone on the Stellar decentralised exchanges to ensure safety, full ownership and control by traders and holders.
 #### Liquidity Locked
-15% from token total supply is deposited to create XLM/ARBT and ARBT/USDC liquidity pools, the liquidity ownership is renounced forever to continually secure invested funds and boost confidence for everyone.
+15% from token total supply is deposited to create XLM/ARBT and ARBT/USDC liquidity pools, the liquidity ownership is renounced forever to continually secure invested funds and boost confidence for flippers and diamond hands.
 #### Marketing
-15% from token total supply is set aside for strategic marketing to effect visibility, build a strong community and bring about unlimited profitable price trends for everyone.
+15% from token total supply is set aside for strategic marketing to effect visibility, build a strong community and bring about unlimited profitable price trends for traders and investors.
 #### Reserves
 05% of $ARBT tokens from total supply is reserved for development use; for CEXs listing and to continually sustain, maintain and enhance token price trends.
 
