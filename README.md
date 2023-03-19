@@ -8,7 +8,7 @@
 
 <h2 align="center">About Acoshi Rabbit</h2>
 
-<div align="center">Acoshi Rabbit (ARBT) is a meme-inspired cryptocurrency that has learnt a few tricks from the memes father dogecoin, deployed on the Stellar network to enable super fast, low-cost and secured peer-to-peer transactions. $ARBT is a cryptocurrency for the masses and with Stellar's reliable and efficient infrast aims to promote a more profitable cryptoverse for everyone.</div>
+<div align="center">Acoshi Rabbit (ARBT) is a meme-inspired cryptocurrency that has learnt a few tricks from the memes father dogecoin, deployed on the Stellar network to enable super fast, low-cost and secured peer-to-peer transactions. $ARBT is a cryptocurrency for the masses and with Stellar's reliable and efficient infrastructure ARBT aims to sustain a more profitable cryptoverse for everyone.</div>
 
 <h2 align="center">Key Features</h2>
 
