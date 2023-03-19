@@ -19,7 +19,7 @@ Acoshi Rabbit is a cryptocurrency for the masses, therefore 65% of token total s
 #### Marketing
 15% from token total supply is set aside for strategic marketing to effect visibility, build a strong community and bring about unlimited profitable price trends for traders and investors.
 #### Reserves
-05% of $ARBT tokens from total supply is reserved for development use; for CEXs listing and to continually sustain, maintain and enhance token price trends.
+5% of $ARBT tokens from total supply is reserved for development use, such like to continually sustain, maintain and enhance token visibility through a possible CEXs listing in the nearest future.
 
 <div align="center"><img alt="ARBT" src="logo.png" /></div>
 
