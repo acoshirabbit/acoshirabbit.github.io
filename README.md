@@ -1,14 +1,14 @@
-<h2 align="center">Hop On The Revolutionary Memecoin!</h2>
+<h2 align="center">Hop on the revolutionary memecoin!</h2>
 <div align="center"><img alt="ARBT" src="logo2.png" /></div>
 <div align="center"><h5>Fair launched on 15-03-2023 | 13:00 UTC, liquidity added and trading commenced on StellarDEXs</h5><a href="https://www.stellarx.com/swap/native/ARBT:GBJUUYLCALIBUOLEWDJKAWCWVWQ7AV3T2FBFVVNB3KRJIZ3U2RFSCDLR" target="_blank"><img src="buy.png" alt="Buy Now" height= "50px" width= "150px" ></a></div>
 
 <h2 align="center">Discover Stellar Network</h2>
 
-<div align="center">Stellar is a blockchain network that enables low-cost, fast and secure transactions, and it is the blockchain network on which the Acoshi Rabbit token is deployed. $ARBT token is the people's crypto and will be in existence for as long as Stellar blockchain network exist. With Stellar's reliable and efficient infrastructure, $ARBT token aims to sustain wealth creation opportunities for everyone in the cryptoverse.</div>
+<div align="center">Stellar is a blockchain network that enables low-cost, fast and secure transactions, and it is the blockchain network on which the Acoshi Rabbit token is deployed. $ARBT token is the masses cryptocurrency and will last in existence for as long as Stellar blockchain network exist. With Stellar's reliable and efficient infrastructure, $ARBT token aims to sustain wealth creation opportunities for everyone in the cryptoverse.</div>
 
 <h2 align="center">About Acoshi Rabbit</h2>
 
-<div align="center">Acoshi Rabbit (ARBT) is a meme-inspired cryptocurrency that has learnt a few tricks from the memes father Dogecoin, deployed on the Stellar network to enable super fast, low-cost and secured peer-to-peer transactions. $ARBT is a cryptocurrency for the masses, hyper-focused on enriching both the poor, small and big players and aims to promote a more profitable cryptoverse for everyone.</div>
+<div align="center">Acoshi Rabbit (ARBT) is a meme-inspired cryptocurrency that has learnt a few tricks from the memes father dogecoin, deployed on the Stellar network to enable super fast, low-cost and secured peer-to-peer transactions. $ARBT is a cryptocurrency for the masses and with Stellar's reliable and efficient infrast aims to promote a more profitable cryptoverse for everyone.</div>
 
 <h2 align="center">Key Features</h2>
 
