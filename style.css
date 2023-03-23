@@ -20,7 +20,7 @@ body {
 a {
   font-weight: normal;
   text-decoration: none; 
-  color: #004AAD;
+  color: #AC83A8;
 }
 a:focus {
   outline: thin dotted;
@@ -91,7 +91,7 @@ blockquote p:last-child {
  */
 
 /* Full size background image */
-html, #container, .inner { background-color:transparent;}
+html, #container, .inner { background-color:#0A2173 transparent;}
 html {
   background:url(background.gif) center center no-repeat fixed;
   background-size:cover;
@@ -126,7 +126,7 @@ ul.main-menu li a:hover {
 }
 ul.main-menu li a.active {
   color:#FFFFFF;
-  border-bottom-color: #004AAD;
+  border-bottom-color: #AC83A8;
 }
 
 /* Utility classes */
@@ -141,12 +141,12 @@ rcornerbl {
   display: inline-block;
   border-radius: 15px;
   width: 320px;
-  border: 3px solid #004AAD;
+  border: 3px solid #DCDDC6;
   text-align: center;
 }
 
 h4 {
- color: #C287BC;
+ color: #AC83A8;
 }
 
 
