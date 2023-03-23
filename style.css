@@ -139,8 +139,8 @@ ul.main-menu li a.active {
 
 rcornerbl {
   display: inline-block;
-  border-radius: 20px;
-  width: 330px;
+  border-radius: 15px;
+  width: 340px;
   border: 3px solid #004AAD;
   text-align: center;
 }
