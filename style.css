@@ -136,14 +136,12 @@ ul.main-menu li a.active {
 .show {
   display:block;
 }
-
 rcornerbl {
   display: inline-block;
   border-radius: 20px;
   width: 320px;
-  border: 2px solid #004AAD;
+  border: 3px solid #004AAD;
   text-align: center;
 }
-
 
 
