@@ -11,7 +11,7 @@ body {
   line-height: 1.6;
   font-weight: 400;
   font-family: "Roboto", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: #FFFFFF;
+  color: #DCDDC6;
 }
 
 /**
@@ -91,7 +91,7 @@ blockquote p:last-child {
  */
 
 /* Full size background image */
-html, #container, .inner { background-color:#0A2173 transparent;}
+html, #container, .inner { background-color:transparent #0A2173;}
 html {
   background:url(background.gif) center center no-repeat fixed;
   background-size:cover;
