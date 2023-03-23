@@ -136,12 +136,18 @@ ul.main-menu li a.active {
 .show {
   display:block;
 }
+
 rcornerbl {
   display: inline-block;
   border-radius: 20px;
-  width: 320px;
+  width: 330px;
   border: 3px solid #004AAD;
   text-align: center;
 }
+
+h4 {
+ color: #C287BC;
+}
+
 
 
