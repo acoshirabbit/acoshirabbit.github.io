@@ -140,7 +140,7 @@ ul.main-menu li a.active {
 rcornerbl {
   display: inline-block;
   border-radius: 15px;
-  width: 340px;
+  width: 320px;
   border: 3px solid #004AAD;
   text-align: center;
 }
@@ -148,6 +148,24 @@ rcornerbl {
 h4 {
  color: #C287BC;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
