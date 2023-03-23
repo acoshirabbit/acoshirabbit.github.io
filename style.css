@@ -138,8 +138,11 @@ ul.main-menu li a.active {
 }
 
 rcornerbl {
-  display: border-radius 15px;
+  border-radius: 20px;
   width: 320px;
   border: 2px solid #004AAD;
   text-align: center;
 }
+
+
+
