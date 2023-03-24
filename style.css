@@ -138,10 +138,14 @@ ul.main-menu li a.active {
 }
 
 rcornerbl {
+  background-color: #506B97;
   display: inline-block;
-  border-radius: 3px solid #506B97;
   border-radius: 15px;
-  width: auto;
+  margin: 1.6em 10%;
+  padding: .75em 1em;
+}
+rcornerbl p:last-child {
+  margin-bottom: 0;  
 }
 
 h3 {
