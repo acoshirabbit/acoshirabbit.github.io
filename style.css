@@ -93,7 +93,7 @@ blockquote p:last-child {
 /* Full size background image */
 html, #container, .inner { background-color:transparent;}
 html {
-  background:url(background.gif) center center no-repeat fixed;
+  background:url(background1.gif) center center no-repeat fixed;
   background-size:cover;
 }
 body {
@@ -101,7 +101,7 @@ body {
   margin:0 auto;
 }
 header, #content, footer { 
-  background:rgba(0,0,0,.95); 
+  background:rgba(10,35,115,.8); 
   padding:10px;
   color:#FFFFFF; 
 }
@@ -138,7 +138,7 @@ ul.main-menu li a.active {
 }
 
 rbl {
-  background-color: #33363D;
+  background-color: #506B97;
   display: inline-block;
   border-radius: 15px;
   margin: 1.6em 1%;
