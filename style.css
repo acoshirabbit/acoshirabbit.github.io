@@ -98,7 +98,7 @@ html {
 }
 body {
   max-width:1000px;
-  margin:auto;
+  margin:0 auto;
 }
 header, #content, footer { 
   background:rgba(0,0,0,.95); 
