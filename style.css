@@ -97,12 +97,12 @@ html {
   background-size:cover;
 }
 body {
-  max-width:900px;
+  max-width:800px;
   margin:0 auto;
 }
 header, #content, footer { 
   background: rgba(0,0,0,.8); 
-  padding:0 auto;
+  padding:5px auto;
   color:#FFFFFF; 
 }
 
@@ -138,7 +138,7 @@ ul.main-menu li a.active {
 }
 
 rcornerbl {
-  background-color: #F8F8F8;
+  background-color: #506B97;
   display: inline-block;
   border-radius: 15px;
   margin: 1.6em auto;
