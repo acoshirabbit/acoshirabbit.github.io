@@ -97,11 +97,11 @@ html {
   background-size:cover;
 }
 body {
-  max-width:800px;
+  max-width:1000px;
   margin:5px;
 }
 header, #content, footer { 
-  background: rgba(0,0,0,.4); 
+  background: rgba (0,0,0,0); 
   padding:5px;
   color:#FFFFFF; 
 }
@@ -138,19 +138,17 @@ ul.main-menu li a.active {
 }
 
 rcornerbl {
-  background-color: #010203;
+  background-color: #33363D;
   display: inline-block;
   border-radius: 15px;
   margin: 1.6em 2%;
   padding: .75em 1em;
 }
-rcornerbl p:last-child {
-  margin-bottom: 0;  
-}
 
 h3 {
  color: #D98CD2;
 }
+
 
 
 
