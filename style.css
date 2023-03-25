@@ -140,7 +140,7 @@ ul.main-menu li a.active {
 rbl {
   background-color: #00145A;
   display: inline-block;
-  border-radius: 15px;
+  border-radius: 5px;
   margin: 1.6em 1%;
   padding: .75em 1em;
 }
