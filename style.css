@@ -154,9 +154,8 @@ h3 {
   box-sizing:
   border-box;
 }
-.nav {
+nav {
   display: flex;
-  justify-content: space-between;
   align-items: center;
   background-color: #00145A;
   padding: 1rem 1.5rem;
