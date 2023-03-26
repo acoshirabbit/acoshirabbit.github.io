@@ -134,7 +134,7 @@ ul.main-menu li a.active {
   display:none;
 }
 .show {
-  display:block;
+  display:none;
 }
 
 rbl {
@@ -158,7 +158,7 @@ nav {
   display: flex;
   align-items: center;
   background-color: #00145A;
-  padding: 1rem 1.5rem;
+  padding: 1rem 1.6rem;
 }
 
 
