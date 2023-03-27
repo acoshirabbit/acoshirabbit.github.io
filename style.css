@@ -184,10 +184,10 @@ ul.main-menu li a:hover {
 
 nbb {
   display: none;
-  background-color: #D98CD2;
-  border: 3px solid #FFFFFF;
-  border-radius: 5px;
-  width: 35px;
+  background-color: #FFFFFF;
+  border: 3px solid #D98CD2;
+  border-radius: 3px;
+  width: 37px;
   hight: 20px;
 }
 hamburger {
@@ -200,7 +200,7 @@ bar {
   margin: 5px auto;
   -webkit-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
-  background-color: #FFFFFF;
+  background-color: #D98CD2;
 }
 
 @media only screen and (max-width: 668px) {
@@ -224,10 +224,10 @@ ul.main-menu li a {
 }
 nbb {
   display: inline-block;
-  background-color: #D98CD2;
-  border: 3px solid #FFFFFF;
-  border-radius: 5px;
-  width: 35px;
+  background-color: #FFFFFF;
+  border: 3px solid #D98CD2;
+  border-radius: 3px;
+  width: 37px;
   hight: 20px;
 }
 hamburger {
