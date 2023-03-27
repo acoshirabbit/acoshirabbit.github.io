@@ -149,14 +149,11 @@ h3 {
  color: #D98CD2;
 }
 
-* { margin: 0;
-  padding: 0;
-  box-sizing:
-  border-box;
-}
 nav {
-  display: flex;
+  display: inline-block;
   background-color: #00145A;
+  width: 0 auto;
+  margin: 1.6em 0 auto;
   padding: 1rem 1.5rem;
 }
 
