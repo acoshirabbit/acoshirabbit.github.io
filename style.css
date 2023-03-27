@@ -156,7 +156,6 @@ h3 {
 }
 nav {
   display: flex;
-  align-items: center;
   background-color: #00145A;
   padding: 1rem 1.5rem;
 }
