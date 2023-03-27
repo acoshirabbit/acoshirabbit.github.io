@@ -171,7 +171,7 @@ li.nav-item {
   margin-left: 3rem;
 }
 a.nav-link {
-  font-size: 18px;
+  font-size: 19px;
   color: #FFFFFF;
 }
 a.nav-link:hover {
@@ -213,7 +213,7 @@ li.nav-item a {
 }
 
 div.hamburger {
-  display: block;
+  display: inline-block;
   cursor: pointer;
 }
 div.hamburger.active .bar:nth-child(2) {
