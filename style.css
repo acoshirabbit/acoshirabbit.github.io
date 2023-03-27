@@ -162,7 +162,8 @@ navbar {
   padding: 1rem 1.5rem;
 }
 navlogo {
-  align-item: left;
+  hight: 50px;
+  width: 300px
 }
 
 ul.main-menu {
