@@ -7,7 +7,7 @@ html {
   font-size: 62.5%;
 }
 body {
-  font-size: 1.5em; /* currently ems cause chrome bug misinterpreting rems on body element */
+  font-size: 1.8em; /* currently ems cause chrome bug misinterpreting rems on body element */
   line-height: 1.6;
   font-weight: 400;
   font-family: "Roboto", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -102,7 +102,7 @@ body {
 }
 header, #content, footer { 
   background:rgba(0,15,72,.95); 
-  padding:10px;
+  padding:0 auto;
   color:#FFFFFF; 
 }
 
@@ -141,7 +141,7 @@ rbl {
   background-color: #00145A;
   display: inline-block;
   border-radius: 5px;
-  margin: 1.6em 1%;
+  margin: 1.5em 1%;
   padding: .75em 1em;
 }
 
