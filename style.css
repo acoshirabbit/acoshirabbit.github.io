@@ -154,12 +154,15 @@ h3 {
   padding: 0;
   box-sizing: border-box;
 }
-nav.navbar {
+navbar {
   display: flex;
   justify-content: space-between;
   align-items: center;
   background-color: #00145A;
   padding: 1rem 1.5rem;
+}
+navlogo {
+  align-item: left;
 }
 
 ul.main-menu {
@@ -167,14 +170,14 @@ ul.main-menu {
   justify-content: space-between;
   align-items: center;
 }
-li.nav-item {
+ul.main-menu li {
   margin-left: 3rem;
 }
-a.nav-link {
+ul.main-menu li a {
   font-size: 19px;
   color: #FFFFFF;
 }
-a.nav-link:hover {
+ul.main-menu li a:hover {
   color: #D98CD2;
 }
 
@@ -208,7 +211,7 @@ bar {
 ul.main-menu.active {
   left: 0;
 }
-li.nav-item a {
+ul.main-menu li a {
   margin: 2.5rem 0;
 }
 
