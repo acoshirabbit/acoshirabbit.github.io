@@ -182,6 +182,14 @@ ul.main-menu li a:hover {
   color: #D98CD2;
 }
 
+nbb {
+  display: none;
+  background-color: #FFFFFF;
+  border: 3px solid #D98CD2;
+  border-radius: 2px;
+  width: 32px;
+  hight: 27px;
+}
 hamburger {
   display: none;
 }
@@ -214,13 +222,13 @@ ul.main-menu.active {
 ul.main-menu li a {
   margin: 2.5rem 0;
 }
-
 nbb {
   display: inline-block;
   background-color: #FFFFFF;
   border: 3px solid #D98CD2;
-  width: 28px;
-  hight: 28px;
+  border-radius: 2px;
+  width: 32px;
+  hight: 27px;
 }
 hamburger {
   display: block;
