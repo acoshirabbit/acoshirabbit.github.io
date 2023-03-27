@@ -215,6 +215,13 @@ ul.main-menu li a {
   margin: 2.5rem 0;
 }
 
+nbb {
+  display: inline-block;
+  background-color: #FFFFFF;
+  border: 3px solid #D98CD2;
+  width: 28px;
+  hight: 28px;
+}
 hamburger {
   display: block;
   cursor: pointer;
