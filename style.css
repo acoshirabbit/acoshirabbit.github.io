@@ -179,7 +179,7 @@ a.nav-link:hover {
 }
 
 div.hamburger {
-  display: none;
+  display: inline-block;
 }
 span.bar {
   display: inline-block;
