@@ -186,14 +186,13 @@ hamburger {
   display: none;
 }
 bar {
-  display: inline-block;
+  display: block;
   width: 25px;
   height: 3px;
   margin: 5px auto;
   -webkit-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
-  background-color: #00145A;
-  color: #D98CD2;
+  background-color: #D98CD2;
 }
 
 @media only screen and (max-width: 668px) {
@@ -217,7 +216,7 @@ ul.main-menu li a {
 }
 
 hamburger {
-  display: inline-block;
+  display: block;
   cursor: pointer;
 }
 hamburger.active bar:nth-child(2) {
