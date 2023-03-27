@@ -25,5 +25,9 @@
     // $('#content').load(region.slice(1) + '.html')
     
   });
+    
+    const hamburger = document.querySelector(".hamburger");
+    const navMenu = document.querySelector(".nav-menu");
+    const navLink = document.querySelectorAll(".nav-link");
   
 })(jQuery);
