@@ -149,6 +149,11 @@ h3 {
  color: #D98CD2;
 }
 
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 nav {
   display: flex;
   background-color: #00145A;
