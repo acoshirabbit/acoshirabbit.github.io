@@ -167,14 +167,14 @@ ul.main-menu {
   justify-content: space-between;
   align-items: center;
 }
-ul.main-menu li {
+ul.main-menu li a {
   margin-left: 3rem;
 }
-ul.main-menu a {
+ul.main-menu li a {
   font-size: 19px;
   color: #FFFFFF;
 }
-ul.main-menu a:hover {
+ul.main-menu li a:hover {
   color: #D98CD2;
 }
 
@@ -207,7 +207,7 @@ ul.main-menu {
 ul.main-menu.active {
   left: 0;
 }
-ul.main-menu li {
+ul.main-menu li a {
   margin: 2.5rem 0;
 }
 
