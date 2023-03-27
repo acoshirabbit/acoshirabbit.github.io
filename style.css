@@ -188,7 +188,8 @@ span.bar {
   margin: 5px auto;
   -webkit-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
-  background-color: white;
+  background-color: #00145A;
+  color: #D98CD2;
 }
 
 @media only screen and (max-width: 668px) {
@@ -209,6 +210,22 @@ ul.main-menu.active {
 }
 li.nav-item a {
   margin: 2.5rem 0;
+}
+
+div.hamburger {
+  display: block;
+  cursor: pointer;
+}
+div.hamburger.active .bar:nth-child(2) {
+  opacity: 0;
+}
+div.hamburger.active .bar:nth-child(1) {
+  -webkit-transform: translateY(8px) rotate(45deg);
+  transform: translateY(8px) rotate(45deg);
+}
+div.hamburger.active .bar:nth-child(3) {
+  -webkit-transform: translateY(-8px) rotate(-45deg);
+  transform: translateY(-8px) rotate(-45deg);
 }
 
 
