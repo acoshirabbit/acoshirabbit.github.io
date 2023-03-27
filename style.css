@@ -178,10 +178,10 @@ ul.main-menu li a:hover {
   color: #D98CD2;
 }
 
-.hamburger {
+div.hamburger {
   display: none;
 }
-.bar {
+span.bar {
   display: block;
   width: 25px;
   height: 3px;
