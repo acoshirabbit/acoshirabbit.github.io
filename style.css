@@ -154,7 +154,7 @@ h3 {
   padding: 0;
   box-sizing: border-box;
 }
-.navbar {
+nav.navbar {
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -162,19 +162,19 @@ h3 {
   padding: 1rem 1.5rem;
 }
 
-.main-menu {
+ul.main-menu {
   display: flex;
   justify-content: space-between;
   align-items: center;
 }
-.main-item {
+ul.main-menu li {
   margin-left: 3rem;
 }
-.main-link {
+ul.main-menu a {
   font-size: 19px;
   color: #FFFFFF;
 }
-main-link:hover {
+ul.main-menu a:hover {
   color: #D98CD2;
 }
 
@@ -192,7 +192,7 @@ main-link:hover {
 }
 
 @media only screen and (max-width: 668px) {
-.main-menu {
+ul.main-menu {
   position: fixed;
   left: -100%;
   top: 5rem;
@@ -204,10 +204,10 @@ main-link:hover {
   text-align: center;
   transition: 0.3s;
 }
-.main-menu.active {
+ul.main-menu.active {
   left: 0;
 }
-.main-item {
+ul.main-menu li {
   margin: 2.5rem 0;
 }
 
