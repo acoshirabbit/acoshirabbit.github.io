@@ -186,9 +186,9 @@ nbb {
   display: none;
   background-color: #FFFFFF;
   border: 3px solid #D98CD2;
-  border-radius: 2px;
-  width: 32px;
-  hight: 27px;
+  border-radius: 5px;
+  width: 35px;
+  hight: 25px;
 }
 hamburger {
   display: none;
@@ -226,9 +226,9 @@ nbb {
   display: inline-block;
   background-color: #FFFFFF;
   border: 3px solid #D98CD2;
-  border-radius: 2px;
-  width: 32px;
-  hight: 27px;
+  border-radius: 5px;
+  width: 35px;
+  hight: 25px;
 }
 hamburger {
   display: block;
