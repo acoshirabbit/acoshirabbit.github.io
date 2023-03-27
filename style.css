@@ -167,14 +167,14 @@ ul.main-menu {
   justify-content: space-between;
   align-items: center;
 }
-ul.main-menu li a {
+li.nav-item {
   margin-left: 3rem;
 }
-ul.main-menu li a {
-  font-size: 19px;
+a.nav-link {
+  font-size: 18px;
   color: #FFFFFF;
 }
-ul.main-menu li a:hover {
+a.nav-link:hover {
   color: #D98CD2;
 }
 
@@ -192,7 +192,7 @@ span.bar {
 }
 
 @media only screen and (max-width: 668px) {
-ul.main-menu {
+  ul.main-menu {
   position: fixed;
   left: -100%;
   top: 5rem;
@@ -207,7 +207,7 @@ ul.main-menu {
 ul.main-menu.active {
   left: 0;
 }
-ul.main-menu li a {
+li.nav-item a {
   margin: 2.5rem 0;
 }
 
