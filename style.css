@@ -150,9 +150,9 @@ h3 {
 }
 
 nav {
-  display: inline-block;
+  display: flex;
   background-color: #00145A;
-  padding: 1rem 1.5rem;
+  padding: 1rem 1.8rem;
 }
 
 
