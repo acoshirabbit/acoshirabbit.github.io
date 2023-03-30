@@ -159,10 +159,10 @@ navbar {
   justify-content: space-between;
   align-items: center;
   background-color: #00145A;
-  padding: 1rem 1.5rem;
+  padding: .85rem 1.5rem;
 }
 navlogo {
-  hight: 60px;
+  hight: 50px;
   width: 300px;
 }
 
