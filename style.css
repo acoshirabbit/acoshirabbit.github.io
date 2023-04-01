@@ -185,8 +185,8 @@ ul.main-menu li a:hover {
 nbb {
   display: none;
   background-color: #FFFFFF;
-  border: 3px solid #D98CD2;
-  border-radius: 3px;
+  border: 2px solid #D98CD2;
+  border-radius: 5px;
   width: 37px;
   hight: 20px;
 }
@@ -225,8 +225,8 @@ ul.main-menu li a {
 nbb {
   display: inline-block;
   background-color: #FFFFFF;
-  border: 3px solid #D98CD2;
-  border-radius: 3px;
+  border: 2px solid #D98CD2;
+  border-radius: 5px;
   width: 37px;
   hight: 20px;
 }
