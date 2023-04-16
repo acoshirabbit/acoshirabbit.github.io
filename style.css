@@ -163,8 +163,8 @@ navbar {
   padding: .75rem 1.6rem;
 }
 navlogo {
-  hight: 50px;
-  width: 300px;
+  hight: 55px;
+  width: 245px;
 }
 
 ul.main-menu {
@@ -188,7 +188,7 @@ nbb {
   background-color: #FFFFFF;
   border: 1px solid #D98CD2;
   border-radius: 5px;
-  width: 30px;
+  width: 35px;
   hight: 20px;
 }
 hamburger {
@@ -196,7 +196,7 @@ hamburger {
 }
 bar {
   display: block;
-  width: 20px;
+  width: 23px;
   height: 3px;
   margin: 5px auto;
   -webkit-transition: all 0.3s ease-in-out;
@@ -228,7 +228,7 @@ nbb {
   background-color: #FFFFFF;
   border: 1px solid #D98CD2;
   border-radius: 5px;
-  width: 30px;
+  width: 35px;
   hight: 20px;
 }
 hamburger {
