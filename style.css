@@ -7,7 +7,7 @@ html {
   font-size: 62.5%;
 }
 body {
-  font-size: 1.8em; /* currently ems cause chrome bug misinterpreting rems on body element */
+  font-size: 1.6em; /* currently ems cause chrome bug misinterpreting rems on body element */
   line-height: 1.6;
   font-weight: 400;
   font-family: "Roboto", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -80,7 +80,7 @@ blockquote {
   border-left: 2px solid #AFC0D2;
   margin: 1.6em 10%;
   padding: .75em 1em;
-  font-size:1.8rem;
+  font-size:1.6rem;
 }
 blockquote p:last-child {
   margin-bottom: 0;  
@@ -143,7 +143,7 @@ rbl {
   border-radius: 5px;
   margin: 1.5em 1%;
   padding: .75em 1em;
-  font-size: 1.8rem;
+  font-size: 1.6rem;
 }
 
 h3 {
@@ -188,8 +188,8 @@ nbb {
   background-color: #FFFFFF;
   border: 1px solid #D98CD2;
   border-radius: 5px;
-  width: 25px;
-  hight: 25px;
+  width: 30px;
+  hight: 20px;
 }
 hamburger {
   display: none;
@@ -228,8 +228,8 @@ nbb {
   background-color: #FFFFFF;
   border: 1px solid #D98CD2;
   border-radius: 5px;
-  width: 25px;
-  hight: 25px;
+  width: 30px;
+  hight: 20px;
 }
 hamburger {
   display: block;
