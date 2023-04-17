@@ -168,7 +168,7 @@ navbar {
 }
 navlogo {
   hight: 55px;
-  width: 245px;
+  width: 255px;
 }
 
 ul.main-menu {
@@ -212,7 +212,7 @@ bar {
   ul.main-menu {
   position: fixed;
   left: -100%;
-  top: 5rem;
+  top: 10rem;
   flex-direction: column;
   background-color: #00145A;
   width: 100%;
