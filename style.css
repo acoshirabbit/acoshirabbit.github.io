@@ -99,6 +99,7 @@ html {
 body {
   max-width:1000px;
   margin:0 auto;
+  margin-top: 30px;
 }
 header, #content, footer { 
   background:rgba(0,15,72,1); 
@@ -164,10 +165,6 @@ navbar {
   align-items: center;
   background-color: #00145A;
   padding: .75rem 1.6rem;
-  overflow: hidden;
-}
-.main {
-  margin-top: 30px;
 }
 navlogo {
   hight: 55px;
