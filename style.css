@@ -212,7 +212,7 @@ bar {
   ul.main-menu {
   position: fixed;
   left: -100%;
-  top: 10rem;
+  top: 7rem;
   flex-direction: column;
   background-color: #00145A;
   width: 100%;
