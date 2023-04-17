@@ -161,6 +161,7 @@ navbar {
   position: fixed;
   width: 100%;
   top: 0;
+  padding: .85rem 1.4rem;
   justify-content: space-between;
   align-items: center;
   background-color: #00145A;
