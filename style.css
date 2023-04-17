@@ -159,14 +159,11 @@ h3 {
 navbar {
   display: flex;
   position: fixed;
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
+  width: 100%;
   top: 0;
   justify-content: space-between;
   align-items: center;
   background-color: #00145A;
-  padding: .75rem 1.6rem;
 }
 navlogo {
   hight: 55px;
