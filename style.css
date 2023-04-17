@@ -99,7 +99,7 @@ html {
 body {
   max-width:1000px;
   margin:0 auto;
-  margin-top: 30px;
+  margin-top: 100px;
 }
 header, #content, footer { 
   background:rgba(0,15,72,1); 
@@ -250,6 +250,9 @@ hamburger.active bar:nth-child(3) {
   -webkit-transform: translateY(-8px) rotate(-45deg);
   transform: translateY(-8px) rotate(-45deg);
 }
+
+
+
 
 
 
