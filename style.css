@@ -78,7 +78,7 @@ q:after {
 blockquote {
   /*background-color: #F8F8F8;*/
   border-left: 2px solid #AFC0D2;
-  margin: 1.6em 10%;
+  margin: 1.5em 1%;
   padding: .75em 1em;
   font-size:1.6rem;
 }
@@ -140,10 +140,10 @@ ul.main-menu li a.active {
 
 rbl {
   background-color: #00145A;
-  display: inline-block;
-  border-radius: 5px;
-  margin: 1.6em 10%;
-  padding: .75em 1em;
+  display: flex;
+  width: 100%;
+  padding-top: 50px;
+  padding-bottom: 20px;
   font-size: 1.6rem;
 }
 
