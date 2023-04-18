@@ -142,6 +142,7 @@ rbl {
   background-color: #00145A;
   display: inline-block;
   border-radius: 5px;
+  padding-top: 30px;
   margin: 1.5em 1%;
   padding: .75em 1em;
   font-size: 1.6rem;
@@ -151,11 +152,6 @@ h3 {
  color: #D98CD2;
 }
 
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
 navbar {
   display: flex;
   position: fixed;
@@ -165,10 +161,6 @@ navbar {
   justify-content: space-between;
   align-items: center;
   background-color: #00145A;
-}
-navlogo {
-  hight: 55px;
-  width: 255px;
 }
 
 ul.main-menu {
@@ -250,81 +242,3 @@ hamburger.active bar:nth-child(3) {
   -webkit-transform: translateY(-8px) rotate(-45deg);
   transform: translateY(-8px) rotate(-45deg);
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
