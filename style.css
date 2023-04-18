@@ -99,7 +99,7 @@ html {
 body {
   max-width:1000px;
   margin:0 auto;
-  margin-top: 100px;
+  margin-top: 90px;
 }
 header, #content, footer { 
   background:rgba(0,15,72,1); 
@@ -142,8 +142,7 @@ rbl {
   background-color: #00145A;
   display: inline-block;
   border-radius: 5px;
-  padding-top: 30px;
-  margin: 1.5em 1%;
+  margin: 1.6em 10%;
   padding: .75em 1em;
   font-size: 1.6rem;
 }
@@ -152,6 +151,11 @@ h3 {
  color: #D98CD2;
 }
 
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 navbar {
   display: flex;
   position: fixed;
