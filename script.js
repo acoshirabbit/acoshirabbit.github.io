@@ -41,10 +41,6 @@
     navMenu.classList.remove("active");
   }
 
-    $(document).ready(function() {
-    $(".preloader").fadeOut();
-  }
-
   });
  
 })(jQuery);
