@@ -141,9 +141,9 @@ ul.main-menu li a.active {
 rbl {
   background-color: #00145A;
   display: flex;
-  width: 100%;
-  padding-top: 50px;
-  padding-bottom: 20px;
+  border-radius: 5px;
+  margin: 1.5em 1%;
+  padding: .75em 1em;
   font-size: 1.6rem;
 }
 
