@@ -147,8 +147,12 @@ rbl {
   font-size: 1.6rem;
 }
 
+li {
+  float: 0;
+}
+
 h3 {
- color: #D98CD2;
+  color: #D98CD2;
 }
 
 * {
