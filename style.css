@@ -145,11 +145,17 @@ rbl {
   margin: 1.5em 1%;
   padding: 1.75em 1em;
   font-size: 1.6rem;
-  float: none;
 }
 
-li {
-  float: none;
+ul {
+  list-style-type: disc;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+li {
+  float: none;
 }
 
 h3 {
