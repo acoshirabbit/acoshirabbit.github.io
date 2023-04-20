@@ -151,6 +151,7 @@ rbl {
   padding: 1.75em 1em;
   font-size: 1.6rem;
   width: 100%;
+  overflow: hidden;
 }
 li {
   float: none;
@@ -166,7 +167,7 @@ h3 {
   box-sizing: border-box;
 }
 navbar {
-  display: flex;
+  display: inline-block;
   position: fixed;
   top: 0;
   width: 100%;
