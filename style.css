@@ -1,22 +1,13 @@
-/**
- * Typography & Text styles
- */
-
-/* html is set to 62.5% so that all the REM measurements are based on 10px sizing. So basically 1.5rem = 15px */
 html {
   font-size: 62.5%;
 }
 body {
-  font-size: 1.6em; /* currently ems cause chrome bug misinterpreting rems on body element */
+  font-size: 1.6em;
   line-height: 1.6;
   font-weight: 400;
   font-family: "Roboto", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #DCDDC6;
 }
-
-/**
- * Links
- */
 a {
   font-weight: normal;
   text-decoration: none; 
@@ -25,14 +16,9 @@ a {
 a:focus {
   outline: none;
 }
-
 small {
   font-size: 75%;
 }
-
-/**
- * Headings
- */
 h1,
 h2,
 h3,
@@ -40,7 +26,7 @@ h4,
 h5,
 h6 {
   line-height: 1;
-  text-rendering: optimizeLegibility; /*  voodoo to enable ligatures and kerning | https://developer.mozilla.org/en-US/docs/CSS/text-rendering */
+  text-rendering: optimizeLegibility;
   margin-top: 0;
   margin-bottom: 2rem;
   font-weight: 400;
@@ -51,20 +37,12 @@ h3 { font-size: 2.6rem; line-height: 1.4; letter-spacing: -.07rem; }
 h4 { font-size: 2.6rem; line-height: 1.5;  letter-spacing: -.05rem; }
 h5 { font-size: 2.0rem; line-height: 1.5;  letter-spacing: -.02rem; }
 h6 { font-size: 1.2rem; line-height: 1.6;  letter-spacing: 0; }
-
-/**
- * Paragraphs
- */
 p {
-  margin: 0 auto 1.5em auto; /* bottom margin for paragraphs */
+  margin: 0 auto 1.5em auto;
 }
 p + p {
 
 }
-
-/**
- * Quotes & Blockquotes
- */
 q {
   quotes: '\00201C' '\00201D';
 }
@@ -74,9 +52,8 @@ q:before {
 q:after {
   content: close-quote;
 }
-
 blockquote {
-  /*background-color: #F8F8F8;*/
+  background-color: #F8F8F8;
   border-left: 2px solid #AFC0D2;
   margin: 1.6em 10%;
   padding: .75em 1em;
@@ -86,11 +63,6 @@ blockquote p:last-child {
   margin-bottom: 0;  
 }
 
-/**
- * Layout styles
- */
-
-/* Full size background image */
 html, #container, .inner { background-color:#000F48;}
 html {
   background:url(background.png) center center no-repeat fixed;
@@ -106,8 +78,6 @@ header, #content, footer {
   padding:5px 1%;
   color:#DCDDC6; 
 }
-
-/* Menu Links */
 ul.main-menu {
   margin: 0;
   padding: 0;
@@ -129,19 +99,11 @@ ul.main-menu li a.active {
   color:#DCDDC6;
   border-bottom-color: #D98CD2;
 }
-
-/* Utility classes */
 .hide {
   display:none;
 }
 .show {
   display:block;
-}
-
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
 }
 rbl {
   background-color: #00145A;
@@ -155,17 +117,14 @@ rbl {
 li {
   float: none;
 }
-
 ip {
   font-size: 1.2rem;
   color: #D98CD2;
 }
-
 ck,
 h3 {
   color: #D98CD2;
 }
-
 * {
   margin: 0;
   padding: 0;
@@ -181,7 +140,6 @@ navbar {
   align-items: center;
   background-color: #00145A;
 }
-
 ul.main-menu {
   display: flex;
   justify-content: space-between;
@@ -197,7 +155,6 @@ ul.main-menu li a {
 ul.main-menu li a:hover {
   color: #D98CD2;
 }
-
 nbb {
   display: none;
   background-color: #DCDDC6;
@@ -218,7 +175,6 @@ bar {
   transition: all 0.3s ease-in-out;
   background-color: #D98CD2;
 }
-
 @media only screen and (max-width: 668px) {
   ul.main-menu {
   position: fixed;
