@@ -11,7 +11,7 @@ body {
   line-height: 1.6;
   font-weight: 400;
   font-family: "Roboto", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: #FFFFFF;
+  color: #DCDDC6;
 }
 
 /**
@@ -91,7 +91,7 @@ blockquote p:last-child {
  */
 
 /* Full size background image */
-html, #container, .inner { background-color:transparent;}
+html, #container, .inner { background-color:#000F48;}
 html {
   background:url(background.png) center center no-repeat fixed;
   background-size:cover;
@@ -102,9 +102,9 @@ body {
   margin-top: 90px;
 }
 header, #content, footer { 
-  background:rgba(0,15,72,.1); 
+  background:rgba(0,15,72,1); 
   padding:5px 1%;
-  color:#FFFFFF; 
+  color:#DCDDC6; 
 }
 
 /* Menu Links */
@@ -120,13 +120,13 @@ ul.main-menu li a {
   margin-right:20px;
   font-size:2.0rem;
   border-bottom: solid transparent 3px;
-  color:#FFFFFF;
+  color:#DCDDC6;
 }
 ul.main-menu li a:hover {
-  color:#FFFFFF;
+  color:#DCDDC6;
 }
 ul.main-menu li a.active {
-  color:#FFFFFF;
+  color:#DCDDC6;
   border-bottom-color: #D98CD2;
 }
 
@@ -192,7 +192,7 @@ ul.main-menu li {
 }
 ul.main-menu li a {
   font-size: 19px;
-  color: #FFFFFF;
+  color: #DCDDC6;
 }
 ul.main-menu li a:hover {
   color: #D98CD2;
@@ -200,7 +200,7 @@ ul.main-menu li a:hover {
 
 nbb {
   display: none;
-  background-color: #FFFFFF;
+  background-color: #DCDDC6;
   border: 1px solid #D98CD2;
   border-radius: 5px;
   width: 35px;
@@ -240,7 +240,7 @@ ul.main-menu li a {
 }
 nbb {
   display: inline-block;
-  background-color: #FFFFFF;
+  background-color: #DCDDC6;
   border: 1px solid #D98CD2;
   border-radius: 5px;
   width: 35px;
@@ -261,3 +261,38 @@ hamburger.active bar:nth-child(3) {
   -webkit-transform: translateY(-8px) rotate(-45deg);
   transform: translateY(-8px) rotate(-45deg);
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
