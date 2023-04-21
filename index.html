@@ -21,11 +21,12 @@
     width: 100%;
     height: 100%;
     overflow: visible;
-    background: #FFFFFF url('pac.svg') no-repeat center center;}
+    background: #FFFFFF url('pac.svg') no-repeat center center;
+  }
   </style>
   </head>  
   <body onload="myFunction()">
-   <div id="loder"></div>
+   <div id="loader"></div>
     <header id="header">
       <navbar>
         <navlogo><a href=""><img src="nav.png" alt="Acoshi Rabbit" height= "55px" width= "255px" ></a></navlogo>
@@ -211,12 +212,18 @@
 
   <script type="text/javascript" src="script.js"></script>
   <script>
-    var myVar;
-    function myFunction() {  
-      myVar = setTimeout(showPage, 3000);}
-    function showPage() {  
-      document.getElementById("loader").style.display = "none";  
-      document.getElementById("loader").style.display = "none";}
+  var myVar;
+
+  function myFunction() {  
+    myVar = setTimeout(showPage, 3000);
+  }
+
+  function showPage() { 
+ 
+    document.getElementById("loader").style.display = "none"; 
+ 
+    document.getElementById("loader").style.display = "none";
+  }
   </script>
 
   </body>
