@@ -12,9 +12,20 @@
     <link href="style.css" rel="stylesheet" type="text/css" />
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
     <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>    
-
+  <style>
+  #loader {
+    position: fixed;
+    left: 0;
+    top: 0;
+    z-index: 999;
+    width: 100%;
+    height: 100%;
+    overflow: visible;
+    background: #FFFFFF url('pac.svg') no-repeat center center;}
+  </style>
   </head>  
-  <body>
+  <body onload="myFunction()">
+   <div id="loder"></div>
     <header id="header">
       <navbar>
         <navlogo><a href=""><img src="nav.png" alt="Acoshi Rabbit" height= "55px" width= "255px" ></a></navlogo>
@@ -96,37 +107,31 @@
     </center>
   <rbl>
     <h3>Phase 1</h3>
-    <ul>
-      <li>Fair launch&nbsp;&nbsp;<ck>&check;</ck></li>
-      <li>Website launch&nbsp;&nbsp;<ck>&check;</ck></li>
-      <li>Airdrop and Bounty&nbsp;&nbsp;<ip>...in progress</ip></li>
-      <li>2000+ Holders</li>
-      <li>Whitepaper creation</li>
-      <li>5000+ Holders</li>
-      <li>Website redesign</li>
-    </ul>
+    <li>Fair launch&nbsp;&nbsp;<ck>&check;</ck></li>
+    <li>Website launch&nbsp;&nbsp;<ck>&check;</ck></li>
+    <li>Airdrop and Bounty&nbsp;&nbsp;<ip>...in progress</ip></li>
+    <li>2000+ Holders</li>
+    <li>Whitepaper creation</li>
+    <li>5000+ Holders</li>
+    <li>Website redesign</li>
   <br>
     <h3>Phase 2</h3>
-    <ul>
-      <li>CoinMarketCap listing</li>
-      <li>CoinGecko listing</li>
-      <li>Influencer promotion</li>
-      <li>10,000+ Holders</li>
-      <li>Tier2 CEXs listings</li>
-      <li>100,000+ Holders</li>
-      <li>Website ugrade</li>
-    </ul>
+    <li>CoinMarketCap listing</li>
+    <li>CoinGecko listing</li>
+    <li>Influencer promotion</li>
+    <li>10,000+ Holders</li>
+    <li>Tier2 CEXs listings</li>
+    <li>100,000+ Holders</li>
+    <li>Website ugrade</li>
   <br>
     <h3>Phase 3</h3>
-    <ul>
-      <li>$ARBT themed merchs</li>
-      <li>Marketplace launch</li>
-      <li>Marketplace Android app</li>
-      <li>Google Adsense partnership</li>
-      <li>Marketplace IOS app</li>
-      <li>Tier1 CEXs listings</li>
-      <li>Annual buyback and burn</li>
-    </ul>
+    <li>$ARBT themed merchs</li>
+    <li>Marketplace launch</li>
+    <li>Marketplace Android app</li>
+    <li>Google Adsense partnership</li>
+    <li>Marketplace IOS app</li>
+    <li>Tier1 CEXs listings</li>
+    <li>Annual buyback and burn</li>
   </rbl>
   <br>
   <br>
@@ -205,6 +210,14 @@
   </footer>
 
   <script type="text/javascript" src="script.js"></script>
+  <script>
+    var myVar;
+    function myFunction() {  
+      myVar = setTimeout(showPage, 3000);}
+    function showPage() {  
+      document.getElementById("loader").style.display = "none";  
+      document.getElementById("loader").style.display = "none";}
+  </script>
 
   </body>
 </html>
