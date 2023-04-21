@@ -1,3 +1,12 @@
+document.documentElement.classList.add("js");
+
+// dom is loaded
+jQuery(document).ready(function($) {  
+
+// fade out preloader
+$('#preloader').fadeOut('slow',function(){$(this).remove();});
+});
+
 // Wait for the document to load before running the script 
 (function ($) {
   
