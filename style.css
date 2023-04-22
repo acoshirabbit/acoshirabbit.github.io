@@ -112,7 +112,7 @@ rbl {
   margin: 1.5em 1%;
   padding: 1.75em 1em;
   font-size: 1.6rem;
-  width: auto;
+  width: 1000px;
 }
 li {
   float: none;
@@ -167,7 +167,7 @@ hamburger {
   display: none;
 }
 bar {
-  display: inline-block;
+  display: block;
   width: 23px;
   height: 3px;
   margin: 5px auto;
@@ -195,7 +195,7 @@ ul.main-menu li a {
   margin: 2.5rem 0;
 }
 nbb {
-  display: inline-block;
+  display: block;
   background-color: #DCDDC6;
   border: 1px solid #D98CD2;
   border-radius: 5px;
@@ -203,7 +203,7 @@ nbb {
   hight: 20px;
 }
 hamburger {
-  display: inline-block;
+  display: block;
   cursor: pointer;
 }
 hamburger.active bar:nth-child(2) {
