@@ -128,8 +128,7 @@ h3 {
 * {
   margin: 0;
   padding: 0;
-  box-sizing: border-box;
-  width: 1000px;
+  box-sizing: 1000px;
 }
 navbar {
   display: flex;
