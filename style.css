@@ -69,22 +69,21 @@ html {
   background-size:cover;
 }
 body {
-  max-width:1000px;
-  margin:5px auto;
-  margin-top: 100px;
+  max-width:auto;
+  margin:10px auto;
+  margin-top: 90px;
 }
 header, #content, footer { 
   background:rgba(0,15,72,1); 
-  padding:5px auto;
+  padding:10px auto;
   color:#DCDDC6; 
 }
 ul.main-menu {
   margin: 0;
   padding: 0;
   display: flex;
-  flex-wrap: wrap;
-  justify-content: left;
-  list-style: none;
+  justify-content: space-between;
+  align-items: center;
 }
 ul.main-menu li a {
   margin-right:20px;
@@ -112,7 +111,7 @@ rbl {
   margin: 1.5em 1%;
   padding: 1.75em 1em;
   font-size: 1.6rem;
-  width: 98%;
+  width: 96%;
 }
 li {
   float: none;
