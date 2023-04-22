@@ -70,7 +70,7 @@ html {
 }
 body {
   max-width:1000px;
-  margin:auto;
+  margin:0 auto;
   margin-top: 90px;
 }
 header, #content, footer { 
@@ -134,7 +134,7 @@ navbar {
   display: flex;
   position: fixed;
   top: 0;
-  width: 100%;
+  width: 1000px;
   padding: .75rem 1.5rem;
   justify-content: space-between;
   align-items: center;
@@ -146,10 +146,10 @@ ul.main-menu {
   align-items: center;
 }
 ul.main-menu li {
-  margin-left: 3rem;
+  margin-left: 1rem;
 }
 ul.main-menu li a {
-  font-size: 18px;
+  font-size: 19px;
   color: #DCDDC6;
 }
 ul.main-menu li a:hover {
@@ -170,7 +170,7 @@ bar {
   display: block;
   width: 23px;
   height: 3px;
-  margin: 5px auto;
+  margin: 0 auto;
   -webkit-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
   background-color: #D98CD2;
