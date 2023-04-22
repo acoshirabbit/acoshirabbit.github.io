@@ -84,6 +84,7 @@ ul.main-menu {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  list-style: none;
 }
 ul.main-menu li a {
   margin-right:20px;
@@ -111,7 +112,7 @@ rbl {
   margin: 1.5em 1%;
   padding: 1.75em 1em;
   font-size: 1.6rem;
-  width: 96%;
+  width: 94%;
 }
 li {
   float: none;
@@ -195,7 +196,7 @@ ul.main-menu li a {
   margin: 2.5rem 0;
 }
 nbb {
-  margin-right: 5px;
+  margin-right: 15px;
   display: block;
   background-color: #DCDDC6;
   border: 1px solid #D98CD2;
