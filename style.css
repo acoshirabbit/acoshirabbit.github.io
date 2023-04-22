@@ -112,7 +112,7 @@ rbl {
   margin: 1.5em 1%;
   padding: 1.75em 1em;
   font-size: 1.6rem;
-  width: 99%;
+  width: auto;
 }
 li {
   float: none;
@@ -141,7 +141,7 @@ navbar {
   background-color: #00145A;
 }
 ul.main-menu {
-  display: inline-block;
+  display: flex;
   justify-content: space-between;
   align-items: center;
 }
@@ -170,7 +170,7 @@ bar {
   display: inline-block;
   width: 23px;
   height: 3px;
-  margin: 15px auto;
+  margin: 5px auto;
   -webkit-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
   background-color: #D98CD2;
