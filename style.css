@@ -87,7 +87,7 @@ ul.main-menu {
   list-style: none;
 }
 ul.main-menu li a {
-  margin-right:50px;
+  margin-right:60px;
   font-size:2.0rem;
   border-bottom: solid transparent 3px;
   color:#DCDDC6;
@@ -112,7 +112,7 @@ rbl {
   margin: 1.5em 1%;
   padding: 1.75em 1em;
   font-size: 1.6rem;
-  width: 1000px;
+  width: 99%;
 }
 li {
   float: none;
@@ -156,6 +156,7 @@ ul.main-menu li a:hover {
   color: #D98CD2;
 }
 nbb {
+  margin-right: 20px;
   display: none;
   background-color: #DCDDC6;
   border: 1px solid #D98CD2;
@@ -195,6 +196,7 @@ ul.main-menu li a {
   margin: 2.5rem 0;
 }
 nbb {
+  margin-right: 20px;
   display: block;
   background-color: #DCDDC6;
   border: 1px solid #D98CD2;
@@ -203,6 +205,7 @@ nbb {
   hight: 20px;
 }
 hamburger {
+  margin-right: 20px;
   display: block;
   cursor: pointer;
 }
