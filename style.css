@@ -69,7 +69,7 @@ html {
   background-size:cover;
 }
 body {
-  max-width:1000px;
+  max-width:auto;
   margin:0 auto;
   margin-top: 90px;
 }
@@ -87,7 +87,7 @@ ul.main-menu {
   list-style: none;
 }
 ul.main-menu li a {
-  margin-right:20px;
+  margin-right:10px;
   font-size:2.0rem;
   border-bottom: solid transparent 3px;
   color:#DCDDC6;
@@ -146,7 +146,7 @@ ul.main-menu {
   align-items: center;
 }
 ul.main-menu li {
-  margin-left: 3rem;
+  margin-left: 1rem;
 }
 ul.main-menu li a {
   font-size: 19px;
