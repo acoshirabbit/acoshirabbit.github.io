@@ -134,7 +134,7 @@ navbar {
   display: flex;
   position: fixed;
   top: 0;
-  width: 1000px;
+  width: auto;
   padding: .75rem 1.5rem;
   justify-content: space-between;
   align-items: center;
@@ -146,7 +146,7 @@ ul.main-menu {
   align-items: center;
 }
 ul.main-menu li {
-  margin-left: 1rem;
+  margin-left: 3rem;
 }
 ul.main-menu li a {
   font-size: 19px;
@@ -170,7 +170,7 @@ bar {
   display: block;
   width: 23px;
   height: 3px;
-  margin: 0 auto;
+  margin: 5px auto;
   -webkit-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
   background-color: #D98CD2;
