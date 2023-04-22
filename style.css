@@ -70,12 +70,12 @@ html {
 }
 body {
   max-width:1000px;
-  margin:0 1%;
+  margin:0 auto;
   margin-top: 90px;
 }
 header, #content, footer { 
   background:rgba(0,15,72,1); 
-  padding:10px 1%;
+  padding:5px 5%;
   color:#DCDDC6; 
 }
 ul.main-menu {
@@ -87,7 +87,7 @@ ul.main-menu {
   list-style: none;
 }
 ul.main-menu li a {
-  margin-right:30px;
+  margin-right:auto;
   font-size:2.0rem;
   border-bottom: solid transparent 3px;
   color:#DCDDC6;
@@ -146,7 +146,7 @@ ul.main-menu {
   align-items: center;
 }
 ul.main-menu li {
-  margin-left: 5rem;
+  margin-left: 3rem;
 }
 ul.main-menu li a {
   font-size: 19px;
@@ -167,7 +167,7 @@ hamburger {
   display: none;
 }
 bar {
-  display: block;
+  display: flex;
   width: 23px;
   height: 3px;
   margin: 5px auto;
@@ -189,7 +189,7 @@ bar {
   transition: 0.3s;
 }
 ul.main-menu.active {
-  left: 10px;
+  left: auto;
 }
 ul.main-menu li a {
   margin: 2.5rem 0;
@@ -203,7 +203,7 @@ nbb {
   hight: 20px;
 }
 hamburger {
-  display: block;
+  display: flex;
   cursor: pointer;
 }
 hamburger.active bar:nth-child(2) {
