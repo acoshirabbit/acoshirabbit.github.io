@@ -134,7 +134,7 @@ navbar {
   display: flex;
   position: fixed;
   top: 0;
-  width: auto;
+  width: 99%;
   margin: 0 auto;
   padding: 0 auto;
   justify-content: space-between;
