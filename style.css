@@ -70,12 +70,12 @@ html {
 }
 body {
   max-width:1000px;
-  margin:10px auto;
+  margin:5px auto;
   margin-top: 90px;
 }
 header, #content, footer { 
   background:rgba(0,15,72,1); 
-  padding:10px auto;
+  padding:5px auto;
   color:#DCDDC6; 
 }
 ul.main-menu {
@@ -131,7 +131,7 @@ h3 {
   box-sizing: border-box;
 }
 navbar {
-  display: block;
+  display: flex;
   position: fixed;
   top: 0;
   width: 100%;
@@ -180,7 +180,7 @@ bar {
   ul.main-menu {
   position: fixed;
   left: -100%;
-  top: 7rem;
+  top: 5rem;
   flex-direction: column;
   background-color: #00145A;
   width: 100%;
@@ -193,7 +193,7 @@ ul.main-menu.active {
   left: 0;
 }
 ul.main-menu li a {
-  margin: 2.5rem 0;
+  margin: 1.5rem 0;
 }
 nbb {
   margin-right: 15px;
