@@ -69,7 +69,7 @@ html {
   background-size:cover;
 }
 body {
-  max-width:900px;
+  max-width:800px;
   margin:10px auto;
   margin-top: 90px;
 }
@@ -112,7 +112,7 @@ rbl {
   margin: 1.5em 1%;
   padding: 1.75em 1em;
   font-size: 1.6rem;
-  width: 94%;
+  width: 80%;
 }
 li {
   float: none;
