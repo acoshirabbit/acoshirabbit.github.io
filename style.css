@@ -1,5 +1,5 @@
 html {
-  font-size: 62.5%;
+  font-size: 72.5%;
 }
 body {
   font-size: 1.6em;
@@ -70,7 +70,7 @@ html {
 }
 body {
   max-width:1000px;
-  margin:10px auto;
+  margin:5px auto;
   margin-top: 90px;
 }
 header, #content, footer { 
