@@ -75,7 +75,7 @@ body {
 }
 header, #content, footer { 
   background:rgba(0,15,72,1); 
-  padding:5px auto;
+  padding:10px auto;
   color:#DCDDC6; 
 }
 ul.main-menu {
