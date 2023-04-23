@@ -2,7 +2,7 @@ html {
   font-size: 62.5%;
 }
 body {
-  font-size: 1.8em;
+  font-size: 1.6em;
   line-height: 1.6;
   font-weight: 400;
   font-family: "Roboto", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -75,7 +75,7 @@ body {
 }
 header, #content, footer { 
   background:rgba(0,15,72,1); 
-  padding:10px auto;
+  padding:5px auto;
   color:#DCDDC6; 
 }
 ul.main-menu {
@@ -111,7 +111,7 @@ rbl {
   border-radius: 5px;
   margin: 1.5em 1%;
   padding: 1.75em 1em;
-  font-size: 1.6rem;
+  font-size: 1.8rem;
   width: 98%;
 }
 li {
