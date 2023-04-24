@@ -2,7 +2,6 @@ html {
   font-size: 62.5%;
 }
 body {
-  margin: 1.5em 1%;
   font-size: 1.6em;
   line-height: 1.6;
   font-weight: 400;
@@ -75,9 +74,10 @@ body {
   margin-top: 90px;
 }
 header, #content, footer { 
-  background:rgba(0,15,72,1); 
+  background:rgba(0,15,72,1);
+  margin: 1.5em 1%;
   padding:10px auto;
-  color:#DCDDC6; 
+  color:#DCDDC6;
 }
 ul.main-menu {
   margin: 0;
