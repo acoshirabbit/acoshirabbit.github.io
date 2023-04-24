@@ -74,7 +74,7 @@ body {
   margin-top: 90px;
 }
 #content {
-  margin: 1.5em 1%;
+  margin: 1em 1%;
 }
 header, #content, footer { 
   background:rgba(0,15,72,1);
@@ -112,7 +112,7 @@ rbl {
   background-color: #00145A;
   display: inline-block;
   border-radius: 5px;
-  margin: 1.5em 1%;
+  margin: 1em 1%;
   padding: 1.75em 1em;
   font-size: 1.8rem;
   width: 98%;
