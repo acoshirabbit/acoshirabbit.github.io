@@ -73,9 +73,11 @@ body {
   margin:5px auto;
   margin-top: 90px;
 }
+#content {
+  margin: 1.5em 1%;
+}
 header, #content, footer { 
   background:rgba(0,15,72,1);
-  margin: 1.5em 1%;
   padding:10px auto;
   color:#DCDDC6;
 }
