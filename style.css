@@ -135,6 +135,7 @@ h3 {
   box-sizing: border-box;
 }
 navbar {
+  max-width: 1000px;
   display: flex;
   position: fixed;
   top: 0;
