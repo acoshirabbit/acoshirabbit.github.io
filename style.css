@@ -111,6 +111,7 @@ ul.main-menu li a.active {
 rbl {
   background-color: #00145A;
   display: inline-block;
+  border: 1px #D98CD2;
   border-radius: 5px;
   margin: 1em 1%;
   padding: 1.75em 1em;
