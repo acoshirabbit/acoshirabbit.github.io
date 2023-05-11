@@ -41,7 +41,6 @@ p {
   margin: 0 auto 1.5em auto;
 }
 p + p {
-
 }
 q {
   quotes: '\00201C' '\00201D';
@@ -62,7 +61,6 @@ blockquote {
 blockquote p:last-child {
   margin-bottom: 0;  
 }
-
 html, #container, .inner { background-color:#000F48;}
 html {
   background:url(background.png) center center no-repeat fixed;
@@ -226,4 +224,38 @@ hamburger.active bar:nth-child(1) {
 hamburger.active bar:nth-child(3) {
   -webkit-transform: translateY(-8px) rotate(-45deg);
   transform: translateY(-8px) rotate(-45deg);
+}
+button { 
+  height: 35px;
+  background-color: #D98CD2;
+  font-weight: bold; 
+  color: #FFFFFF; 
+  padding: 5px 15px; 
+  font-size: 18px; 
+  border-radius: 8px; 
+  transition: .4s; 
+  cursor: pointer;
+}
+button:hover { 
+  background-color: #D98CD2;
+  border: 2px solid #DCDDC6;
+}
+button1 {
+  display: inline-block;
+  font-weight: bold;
+  font-size: 16px;
+  border: 2px solid #D98CD2; 
+  color: #DCDDC6; 
+  background-color: #000F48; 
+  padding: 5px 20px; 
+  border-radius: 8px;
+  transition: .4s;
+  cursor: pointer;
+  box-shadow: 0 0 15px 0 #D98CD2, 
+              0 0 15px 0 #D98CD2, 
+              0 0 8px 0 #D98CD2 inset;
+}
+button1:hover {
+  background-color: #00145A;
+  border: 3px solid #D98CD2
 }
