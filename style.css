@@ -89,7 +89,7 @@ ul.main-menu {
 }
 ul.main-menu li a {
   margin-right:30px;
-  font-size:1.8rem;
+  font-size:1.6rem;
   border-bottom: solid transparent 2px;
   color:#DCDDC6;
 }
@@ -112,16 +112,16 @@ rbl {
   border-radius: 5px;
   margin: 1em 1%;
   padding: 1.75em 1em;
-  font-size: 1.8rem;
+  font-size: 1.6rem;
   width: 98%;
 }
 button { 
   height: 36px;
   background-color: #D98CD2;
-  font-weight: bold; 
-  color: #FFFFFF; 
+  font-weight: normal; 
+  color: #DCDDC6; 
   padding: 5px 15px; 
-  font-size: 18px; 
+  font-size: 1.6rem; 
   border-radius: 8px; 
   transition: .4s; 
   cursor: pointer;
@@ -132,8 +132,8 @@ button:hover {
 }
 button1 {
   display: inline-block;
-  font-weight: bold;
-  font-size: 16px;
+  font-weight: normal;
+  font-size: 1.4rem;
   border: 2px solid #D98CD2; 
   color: #DCDDC6; 
   background-color: #000F48; 
@@ -190,7 +190,7 @@ ul.main-menu li {
   margin-left: 1.5rem;
 }
 ul.main-menu li a {
-  font-size: 19px;
+  font-size: 1.6rem;
   color: #DCDDC6;
 }
 ul.main-menu li a:hover {
@@ -262,10 +262,10 @@ hamburger.active bar:nth-child(3) {
 button { 
   height: 36px;
   background-color: #D98CD2;
-  font-weight: bold; 
-  color: #FFFFFF; 
+  font-weight: normal; 
+  color: #DCDDC6; 
   padding: 5px 15px; 
-  font-size: 18px; 
+  font-size: 1.6rem; 
   border-radius: 8px; 
   transition: .4s; 
   cursor: pointer;
@@ -276,8 +276,8 @@ button:hover {
 }
 button1 {
   display: inline-block;
-  font-weight: bold;
-  font-size: 16px;
+  font-weight: normal;
+  font-size: 1.4rem;
   border: 2px solid #D98CD2; 
   color: #DCDDC6; 
   background-color: #000F48; 
