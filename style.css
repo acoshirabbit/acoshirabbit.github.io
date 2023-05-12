@@ -106,11 +106,6 @@ ul.main-menu li a.active {
 .show {
   display:block;
 }
-.ball {
-  position: absolute;
-  border-radius: 100%;
-  opacity: 0.5;
-}
 rbl {
   background-color: #00145A;
   display: inline-block;
