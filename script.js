@@ -51,8 +51,8 @@ for (let i = 0; i < numBalls; i++) {
 
 balls.forEach((el, i, ra) => {
   let to = {
-    x: Math.random() * (i % 2 === 0 ? -11 : 11),
-    y: Math.random() * 12
+    x: Math.random() * (i % 1 === 0 ? -1 : 1),
+    y: Math.random() * 18
   };
   let anim = el.animate(
     [
