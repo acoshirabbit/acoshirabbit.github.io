@@ -69,7 +69,7 @@ html {
 body {
   max-width:1000px;
   margin:5px auto;
-  margin-top: 90px;
+  margin-top: 85px;
 }
 #content {
   margin: 1em 1%;
@@ -162,7 +162,8 @@ ip {
 }
 p1 {
   font-size: 1.6rem;
-  font-weight: 400;
+  font-weight: bold;
+  margin-bottom: 0.8rem;
   color: #DCDDC6;
 }
 ck,
